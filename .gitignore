@@ -1,0 +1,10 @@
+.Rproj.user
+.Rproj.user.bak*
+.Rhistory
+.RData
+.Ruserdata
+
+# shinyapps.io deployment artifacts and secrets
+shiny_standalone/.shinyapps_env
+shiny_standalone/rsconnect/
+.git.bak
